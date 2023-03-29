@@ -1,0 +1,2610 @@
+fileFormatVersion: 2
+guid: 742a4e0ff9245b74d9dc5c92617a0f5a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7217122259572505013
+    second: Mossy - Decorations&Hazards_0
+  - first:
+      213: 7245173506657615631
+    second: Mossy - Decorations&Hazards_1
+  - first:
+      213: 1488301725011014180
+    second: Mossy - Decorations&Hazards_2
+  - first:
+      213: 5261326726376052483
+    second: Mossy - Decorations&Hazards_3
+  - first:
+      213: -4847004538198489123
+    second: Mossy - Decorations&Hazards_4
+  - first:
+      213: 6385898329335650500
+    second: Mossy - Decorations&Hazards_5
+  - first:
+      213: 2831356835544050211
+    second: Mossy - Decorations&Hazards_6
+  - first:
+      213: -7972202525676027561
+    second: Mossy - Decorations&Hazards_7
+  - first:
+      213: -894820518157784494
+    second: Mossy - Decorations&Hazards_8
+  - first:
+      213: 998237952344926632
+    second: Mossy - Decorations&Hazards_9
+  - first:
+      213: 3854519087547730619
+    second: Mossy - Decorations&Hazards_10
+  - first:
+      213: -4180664988829606838
+    second: Mossy - Decorations&Hazards_11
+  - first:
+      213: -362890367213626599
+    second: Mossy - Decorations&Hazards_12
+  - first:
+      213: -488544862423118083
+    second: Mossy - Decorations&Hazards_13
+  - first:
+      213: -6837957115289482604
+    second: Mossy - Decorations&Hazards_14
+  - first:
+      213: -4987782796224438051
+    second: Mossy - Decorations&Hazards_15
+  - first:
+      213: -1386240991747269610
+    second: Mossy - Decorations&Hazards_16
+  - first:
+      213: -8685087372383361212
+    second: Mossy - Decorations&Hazards_17
+  - first:
+      213: 882862767423078007
+    second: Mossy - Decorations&Hazards_18
+  - first:
+      213: 513964063436504107
+    second: Mossy - Decorations&Hazards_19
+  - first:
+      213: -4712375719159730009
+    second: Mossy - Decorations&Hazards_20
+  - first:
+      213: -2397280860884365182
+    second: Mossy - Decorations&Hazards_21
+  - first:
+      213: -4255489300767683658
+    second: Mossy - Decorations&Hazards_22
+  - first:
+      213: -7710578750478426230
+    second: Mossy - Decorations&Hazards_23
+  - first:
+      213: -1954566243714298343
+    second: Mossy - Decorations&Hazards_24
+  - first:
+      213: 8330007719274071258
+    second: Mossy - Decorations&Hazards_25
+  - first:
+      213: -353096110197813778
+    second: Mossy - Decorations&Hazards_26
+  - first:
+      213: 2955966184537865832
+    second: Mossy - Decorations&Hazards_27
+  - first:
+      213: -3962320231762723227
+    second: Mossy - Decorations&Hazards_28
+  - first:
+      213: 6895592281151743598
+    second: Mossy - Decorations&Hazards_29
+  - first:
+      213: -2201004185417273631
+    second: Mossy - Decorations&Hazards_30
+  - first:
+      213: 7225050338637960144
+    second: Mossy - Decorations&Hazards_31
+  - first:
+      213: -3104618362107416908
+    second: Mossy - Decorations&Hazards_32
+  - first:
+      213: -5858836328966904953
+    second: Mossy - Decorations&Hazards_33
+  - first:
+      213: -157243134487158268
+    second: Mossy - Decorations&Hazards_34
+  - first:
+      213: -4425637035840643311
+    second: Mossy - Decorations&Hazards_35
+  - first:
+      213: 8346498722376892961
+    second: Mossy - Decorations&Hazards_36
+  - first:
+      213: -4676625105349964755
+    second: Mossy - Decorations&Hazards_37
+  - first:
+      213: 6478621448368871309
+    second: Mossy - Decorations&Hazards_38
+  - first:
+      213: 2276711303078772840
+    second: Mossy - Decorations&Hazards_39
+  - first:
+      213: -7841568191824141087
+    second: Mossy - Decorations&Hazards_40
+  - first:
+      213: 4464491158603440044
+    second: Mossy - Decorations&Hazards_41
+  - first:
+      213: 809505645408537467
+    second: Mossy - Decorations&Hazards_42
+  - first:
+      213: 6905654850732562685
+    second: Mossy - Decorations&Hazards_43
+  - first:
+      213: -4802605746894362873
+    second: Mossy - Decorations&Hazards_44
+  - first:
+      213: 1237781610544605494
+    second: Mossy - Decorations&Hazards_45
+  - first:
+      213: 4073598289127009225
+    second: Mossy - Decorations&Hazards_46
+  - first:
+      213: -4160943684179870018
+    second: Mossy - Decorations&Hazards_47
+  - first:
+      213: -3062166371409726720
+    second: Mossy - Decorations&Hazards_48
+  - first:
+      213: -8115813057832612996
+    second: Mossy - Decorations&Hazards_49
+  - first:
+      213: -1117591700642046976
+    second: Mossy - Decorations&Hazards_50
+  - first:
+      213: 2824478532417113659
+    second: Mossy - Decorations&Hazards_51
+  - first:
+      213: 597695580896438230
+    second: Mossy - Decorations&Hazards_52
+  - first:
+      213: 6444520628154090938
+    second: Mossy - Decorations&Hazards_53
+  - first:
+      213: 1397488400027455204
+    second: Mossy - Decorations&Hazards_54
+  - first:
+      213: 6008264905509028628
+    second: Mossy - Decorations&Hazards_55
+  - first:
+      213: 3186188541748835900
+    second: Mossy - Decorations&Hazards_56
+  - first:
+      213: 6078451048160814445
+    second: Mossy - Decorations&Hazards_57
+  - first:
+      213: 3351432124556559802
+    second: Mossy - Decorations&Hazards_58
+  - first:
+      213: 6018087718364852642
+    second: Mossy - Decorations&Hazards_59
+  - first:
+      213: -4500033792374212685
+    second: Mossy - Decorations&Hazards_60
+  - first:
+      213: 1738769230170681034
+    second: Mossy - Decorations&Hazards_61
+  - first:
+      213: -5002331674241039456
+    second: Mossy - Decorations&Hazards_62
+  - first:
+      213: -4085171215202877332
+    second: Mossy - Decorations&Hazards_63
+  - first:
+      213: -2882289469887344933
+    second: Mossy - Decorations&Hazards_64
+  - first:
+      213: 5826852101507878911
+    second: Mossy - Decorations&Hazards_65
+  - first:
+      213: -4355144520989305077
+    second: Mossy - Decorations&Hazards_66
+  - first:
+      213: 5515628692009090426
+    second: Mossy - Decorations&Hazards_67
+  - first:
+      213: -7775612160910457164
+    second: Mossy - Decorations&Hazards_68
+  - first:
+      213: 19406673208232881
+    second: Mossy - Decorations&Hazards_69
+  - first:
+      213: -5268872504946418188
+    second: Mossy - Decorations&Hazards_70
+  - first:
+      213: 2370766921853527659
+    second: Mossy - Decorations&Hazards_71
+  - first:
+      213: 1566533859810274967
+    second: Mossy - Decorations&Hazards_72
+  - first:
+      213: 3859757533568958381
+    second: Mossy - Decorations&Hazards_73
+  - first:
+      213: 1446053784632716343
+    second: Mossy - Decorations&Hazards_74
+  - first:
+      213: -1773115209849694403
+    second: Mossy - Decorations&Hazards_75
+  - first:
+      213: 9046888818579524897
+    second: Mossy - Decorations&Hazards_76
+  - first:
+      213: -8806672223727041831
+    second: Mossy - Decorations&Hazards_77
+  - first:
+      213: 9064576547959325379
+    second: Mossy - Decorations&Hazards_78
+  - first:
+      213: 6914062483052752708
+    second: Mossy - Decorations&Hazards_79
+  - first:
+      213: 6449639622686110119
+    second: Mossy - Decorations&Hazards_80
+  - first:
+      213: 34056188311033005
+    second: Mossy - Decorations&Hazards_81
+  - first:
+      213: 4802218464120278122
+    second: Mossy - Decorations&Hazards_82
+  - first:
+      213: 8530295027566253005
+    second: Mossy - Decorations&Hazards_83
+  - first:
+      213: 3936799502429708822
+    second: Mossy - Decorations&Hazards_84
+  - first:
+      213: 6418129976920142606
+    second: Mossy - Decorations&Hazards_85
+  - first:
+      213: -8434126935598254659
+    second: Mossy - Decorations&Hazards_86
+  - first:
+      213: -4146131522026939958
+    second: Mossy - Decorations&Hazards_87
+  - first:
+      213: 8040985548335867963
+    second: Mossy - Decorations&Hazards_88
+  - first:
+      213: 879296426834349421
+    second: Mossy - Decorations&Hazards_89
+  - first:
+      213: 9093804234149260265
+    second: Mossy - Decorations&Hazards_90
+  - first:
+      213: 1379915402419930755
+    second: Mossy - Decorations&Hazards_91
+  - first:
+      213: 4550259409538695889
+    second: Mossy - Decorations&Hazards_92
+  - first:
+      213: 6236431834514223993
+    second: Mossy - Decorations&Hazards_93
+  - first:
+      213: -2623358510327332969
+    second: Mossy - Decorations&Hazards_94
+  - first:
+      213: -5190285469468924550
+    second: Mossy - Decorations&Hazards_95
+  - first:
+      213: 7738649934343471010
+    second: Mossy - Decorations&Hazards_96
+  - first:
+      213: -4047810689908209293
+    second: Mossy - Decorations&Hazards_97
+  - first:
+      213: -2504173050629425147
+    second: Mossy - Decorations&Hazards_98
+  - first:
+      213: 4074247526979497343
+    second: Mossy - Decorations&Hazards_99
+  - first:
+      213: 1764438375580455429
+    second: Mossy - Decorations&Hazards_100
+  - first:
+      213: 2382716252887546880
+    second: Mossy - Decorations&Hazards_101
+  - first:
+      213: 7338107057473066189
+    second: Mossy - Decorations&Hazards_102
+  - first:
+      213: -3531796233409349332
+    second: Mossy - Decorations&Hazards_103
+  - first:
+      213: -4017060113163798308
+    second: Mossy - Decorations&Hazards_104
+  - first:
+      213: 6947904993914800576
+    second: Mossy - Decorations&Hazards_105
+  - first:
+      213: 1951940245717936523
+    second: Mossy - Decorations&Hazards_106
+  - first:
+      213: 7778085418681363573
+    second: Mossy - Decorations&Hazards_107
+  - first:
+      213: -778465221250446431
+    second: Mossy - Decorations&Hazards_108
+  - first:
+      213: -7762223233509449833
+    second: Mossy - Decorations&Hazards_109
+  - first:
+      213: 4076142652279955387
+    second: Mossy - Decorations&Hazards_110
+  - first:
+      213: 5680380549666310409
+    second: Mossy - Decorations&Hazards_111
+  - first:
+      213: -1362834607205343713
+    second: Mossy - Decorations&Hazards_112
+  - first:
+      213: -2674864358543265476
+    second: Mossy - Decorations&Hazards_113
+  - first:
+      213: 2140315202023789286
+    second: Mossy - Decorations&Hazards_114
+  - first:
+      213: 7280922840044560129
+    second: Mossy - Decorations&Hazards_115
+  - first:
+      213: 8618154750809333658
+    second: Mossy - Decorations&Hazards_116
+  - first:
+      213: 1991702959892976083
+    second: Mossy - Decorations&Hazards_117
+  - first:
+      213: -5775834267391328086
+    second: Mossy - Decorations&Hazards_118
+  - first:
+      213: 5207225933164232145
+    second: Mossy - Decorations&Hazards_119
+  - first:
+      213: -1380565544915669633
+    second: Mossy - Decorations&Hazards_120
+  - first:
+      213: 2436886684991429366
+    second: Mossy - Decorations&Hazards_121
+  - first:
+      213: -477705930874009801
+    second: Mossy - Decorations&Hazards_122
+  - first:
+      213: 2541141292487961413
+    second: Mossy - Decorations&Hazards_123
+  - first:
+      213: -2024183826322950157
+    second: Mossy - Decorations&Hazards_124
+  - first:
+      213: 8870380648577834618
+    second: Mossy - Decorations&Hazards_125
+  - first:
+      213: -8350388614100565704
+    second: Mossy - Decorations&Hazards_126
+  - first:
+      213: -8863338517696609494
+    second: Mossy - Decorations&Hazards_127
+  - first:
+      213: -1127915412048920658
+    second: Mossy - Decorations&Hazards_128
+  - first:
+      213: 8284199801937975436
+    second: Mossy - Decorations&Hazards_129
+  - first:
+      213: -8540877437054959576
+    second: Mossy - Decorations&Hazards_130
+  - first:
+      213: 7973963269061556210
+    second: Mossy - Decorations&Hazards_131
+  - first:
+      213: 4845918172079585368
+    second: Mossy - Decorations&Hazards_132
+  - first:
+      213: -7608134324822472373
+    second: Mossy - Decorations&Hazards_133
+  - first:
+      213: -4001362283121574417
+    second: Mossy - Decorations&Hazards_134
+  - first:
+      213: -88083369884509852
+    second: Mossy - Decorations&Hazards_135
+  - first:
+      213: -9184249357593951712
+    second: Mossy - Decorations&Hazards_136
+  - first:
+      213: -4904769359591321354
+    second: Mossy - Decorations&Hazards_137
+  - first:
+      213: -5480343082419238167
+    second: Mossy - Decorations&Hazards_138
+  - first:
+      213: 3078172939542669358
+    second: Mossy - Decorations&Hazards_139
+  - first:
+      213: 7660032321219020671
+    second: Mossy - Decorations&Hazards_140
+  - first:
+      213: 1414863238749804440
+    second: Mossy - Decorations&Hazards_141
+  - first:
+      213: 8136033775148224412
+    second: Mossy - Decorations&Hazards_142
+  - first:
+      213: -7881192520828211190
+    second: Mossy - Decorations&Hazards_143
+  - first:
+      213: 1533425032896425748
+    second: Mossy - Decorations&Hazards_144
+  - first:
+      213: 1368062085481888339
+    second: Mossy - Decorations&Hazards_145
+  - first:
+      213: -3201785876306252284
+    second: Mossy - Decorations&Hazards_146
+  - first:
+      213: 7962642978484704186
+    second: Mossy - Decorations&Hazards_147
+  - first:
+      213: -143204224133475724
+    second: Mossy - Decorations&Hazards_148
+  - first:
+      213: 5793177942354257728
+    second: Mossy - Decorations&Hazards_149
+  - first:
+      213: -5959518314020088586
+    second: Mossy - Decorations&Hazards_150
+  - first:
+      213: 2910362279202665637
+    second: Mossy - Decorations&Hazards_151
+  - first:
+      213: -8526116572807840780
+    second: Mossy - Decorations&Hazards_152
+  - first:
+      213: 8976437181906249071
+    second: Mossy - Decorations&Hazards_153
+  - first:
+      213: 5449459826377740011
+    second: Mossy - Decorations&Hazards_154
+  - first:
+      213: -5575101047444395499
+    second: Mossy - Decorations&Hazards_155
+  - first:
+      213: -2085243457852092629
+    second: Mossy - Decorations&Hazards_156
+  - first:
+      213: -165182084416808912
+    second: Mossy - Decorations&Hazards_157
+  - first:
+      213: 830162461922311483
+    second: Mossy - Decorations&Hazards_158
+  - first:
+      213: 7451460690082828579
+    second: Mossy - Decorations&Hazards_159
+  - first:
+      213: 2739764576466871842
+    second: Mossy - Decorations&Hazards_160
+  - first:
+      213: 3709299699258365552
+    second: Mossy - Decorations&Hazards_161
+  - first:
+      213: 5314049511208205903
+    second: Mossy - Decorations&Hazards_162
+  - first:
+      213: -9079600624156487101
+    second: Mossy - Decorations&Hazards_163
+  - first:
+      213: -613688279276986203
+    second: Mossy - Decorations&Hazards_164
+  - first:
+      213: 6726775486249457196
+    second: Mossy - Decorations&Hazards_165
+  - first:
+      213: -3183550187702400425
+    second: Mossy - Decorations&Hazards_166
+  - first:
+      213: 2155734798124234122
+    second: Mossy - Decorations&Hazards_167
+  - first:
+      213: -4845304136963284917
+    second: Mossy - Decorations&Hazards_168
+  - first:
+      213: -7943812880434656071
+    second: Mossy - Decorations&Hazards_169
+  - first:
+      213: -6945955957223573487
+    second: Mossy - Decorations&Hazards_170
+  - first:
+      213: -8132030546031087268
+    second: Mossy - Decorations&Hazards_171
+  - first:
+      213: -3872261634300038075
+    second: Mossy - Decorations&Hazards_172
+  - first:
+      213: -9030897643804822155
+    second: Mossy - Decorations&Hazards_173
+  - first:
+      213: 852890348210467386
+    second: Mossy - Decorations&Hazards_174
+  - first:
+      213: 8013825837944663770
+    second: Mossy - Decorations&Hazards_175
+  - first:
+      213: 1221579341126222721
+    second: Mossy - Decorations&Hazards_176
+  - first:
+      213: -3596808795080973033
+    second: Mossy - Decorations&Hazards_177
+  - first:
+      213: 7516330972259375618
+    second: Mossy - Decorations&Hazards_178
+  - first:
+      213: 6913033426411297166
+    second: Mossy - Decorations&Hazards_179
+  - first:
+      213: 7039576087968964165
+    second: Mossy - Decorations&Hazards_180
+  - first:
+      213: -7783284152613257102
+    second: Mossy - Decorations&Hazards_181
+  - first:
+      213: 1070221427276160282
+    second: Mossy - Decorations&Hazards_182
+  - first:
+      213: -3988524781654426161
+    second: Mossy - Decorations&Hazards_183
+  - first:
+      213: 1373566794902907536
+    second: Mossy - Decorations&Hazards_184
+  - first:
+      213: -4685759156086226199
+    second: Mossy - Decorations&Hazards_185
+  - first:
+      213: -1611817023524438847
+    second: Mossy - Decorations&Hazards_186
+  - first:
+      213: 7623469567917714831
+    second: Mossy - Decorations&Hazards_187
+  - first:
+      213: 5470313179479350913
+    second: Mossy - Decorations&Hazards_188
+  - first:
+      213: -4887055602755697101
+    second: Mossy - Decorations&Hazards_189
+  - first:
+      213: 6268585426698507657
+    second: Mossy - Decorations&Hazards_190
+  - first:
+      213: -7097748544617516458
+    second: Mossy - Decorations&Hazards_191
+  - first:
+      213: -2616814846613775430
+    second: Mossy - Decorations&Hazards_192
+  - first:
+      213: -7278242863617272924
+    second: Mossy - Decorations&Hazards_193
+  - first:
+      213: 2729400480463869500
+    second: Mossy - Decorations&Hazards_194
+  - first:
+      213: 5390150937955126991
+    second: Mossy - Decorations&Hazards_195
+  - first:
+      213: -52721834147600028
+    second: Mossy - Decorations&Hazards_196
+  - first:
+      213: -8776610035248189806
+    second: Mossy - Decorations&Hazards_197
+  - first:
+      213: 831576672927156859
+    second: Mossy - Decorations&Hazards_198
+  - first:
+      213: -2879555278775492175
+    second: Mossy - Decorations&Hazards_199
+  - first:
+      213: 2131348517045257286
+    second: Mossy - Decorations&Hazards_200
+  - first:
+      213: -2497792630605461338
+    second: Mossy - Decorations&Hazards_201
+  - first:
+      213: 183214315468327611
+    second: Mossy - Decorations&Hazards_202
+  - first:
+      213: -6991093521351977554
+    second: Mossy - Decorations&Hazards_203
+  - first:
+      213: 3655711161923720653
+    second: Mossy - Decorations&Hazards_204
+  - first:
+      213: -2171764352858887492
+    second: Mossy - Decorations&Hazards_205
+  - first:
+      213: 2762020539937187263
+    second: Mossy - Decorations&Hazards_206
+  - first:
+      213: -4219564843558355846
+    second: Mossy - Decorations&Hazards_207
+  - first:
+      213: 1645026362181111476
+    second: Mossy - Decorations&Hazards_208
+  - first:
+      213: -3032735292537267881
+    second: Mossy - Decorations&Hazards_209
+  - first:
+      213: 6708710528426757142
+    second: Mossy - Decorations&Hazards_210
+  - first:
+      213: 162282915653351958
+    second: Mossy - Decorations&Hazards_211
+  - first:
+      213: -2429373014966132538
+    second: Mossy - Decorations&Hazards_212
+  - first:
+      213: 1699102960657694121
+    second: Mossy - Decorations&Hazards_213
+  - first:
+      213: 794573717698717734
+    second: Mossy - Decorations&Hazards_214
+  - first:
+      213: -8432242881997598666
+    second: Mossy - Decorations&Hazards_215
+  - first:
+      213: -3410151147282158175
+    second: Mossy - Decorations&Hazards_216
+  - first:
+      213: 1194744170254370981
+    second: Mossy - Decorations&Hazards_217
+  - first:
+      213: 6829162020051681818
+    second: Mossy - Decorations&Hazards_218
+  - first:
+      213: -7432093983588780276
+    second: Mossy - Decorations&Hazards_219
+  - first:
+      213: 5404661114690021414
+    second: Mossy - Decorations&Hazards_220
+  - first:
+      213: 8431092733193034390
+    second: Mossy - Decorations&Hazards_221
+  - first:
+      213: -249667897262967210
+    second: Mossy - Decorations&Hazards_222
+  - first:
+      213: 1822490978862251835
+    second: Mossy - Decorations&Hazards_223
+  - first:
+      213: -4300362222467068200
+    second: Mossy - Decorations&Hazards_224
+  - first:
+      213: 3589716563138452955
+    second: Mossy - Decorations&Hazards_225
+  - first:
+      213: 1288903478314769560
+    second: Mossy - Decorations&Hazards_226
+  - first:
+      213: 473052503111051366
+    second: Mossy - Decorations&Hazards_227
+  - first:
+      213: 8379350255992341891
+    second: Mossy - Decorations&Hazards_228
+  - first:
+      213: -737988775920105437
+    second: Mossy - Decorations&Hazards_229
+  - first:
+      213: 4668580782383763924
+    second: Mossy - Decorations&Hazards_230
+  - first:
+      213: 33856437156822588
+    second: Mossy - Decorations&Hazards_231
+  - first:
+      213: 5201859597246484255
+    second: Mossy - Decorations&Hazards_232
+  - first:
+      213: -2806989526859049744
+    second: Mossy - Decorations&Hazards_233
+  - first:
+      213: 6236967445869075794
+    second: Mossy - Decorations&Hazards_234
+  - first:
+      213: -5250902256328845089
+    second: Mossy - Decorations&Hazards_235
+  - first:
+      213: 6818349640353417847
+    second: Mossy - Decorations&Hazards_236
+  - first:
+      213: -7686377677848793793
+    second: Mossy - Decorations&Hazards_237
+  - first:
+      213: -5109043184029624675
+    second: Mossy - Decorations&Hazards_238
+  - first:
+      213: -3747328495658374891
+    second: Mossy - Decorations&Hazards_239
+  - first:
+      213: 5413578017184276314
+    second: Mossy - Decorations&Hazards_240
+  - first:
+      213: -4271798570125932098
+    second: Mossy - Decorations&Hazards_241
+  - first:
+      213: -4125558182400280130
+    second: Mossy - Decorations&Hazards_242
+  - first:
+      213: 5831319636915582640
+    second: Mossy - Decorations&Hazards_243
+  - first:
+      213: -4520256808283106272
+    second: Mossy - Decorations&Hazards_244
+  - first:
+      213: -689331031114618593
+    second: Mossy - Decorations&Hazards_245
+  - first:
+      213: -7909252002258432584
+    second: Mossy - Decorations&Hazards_246
+  - first:
+      213: 1953782189953672854
+    second: Mossy - Decorations&Hazards_247
+  - first:
+      213: -5116794245784987741
+    second: Mossy - Decorations&Hazards_248
+  - first:
+      213: 944644827327942645
+    second: Mossy - Decorations&Hazards_249
+  - first:
+      213: -1173404511515808177
+    second: Mossy - Decorations&Hazards_250
+  - first:
+      213: 5032870259278429791
+    second: Mossy - Decorations&Hazards_251
+  - first:
+      213: 1328166260604232459
+    second: Mossy - Decorations&Hazards_252
+  - first:
+      213: -6176351853207191685
+    second: Mossy - Decorations&Hazards_253
+  - first:
+      213: -1043286085904230239
+    second: Mossy - Decorations&Hazards_254
+  - first:
+      213: 8455869221516870171
+    second: Mossy - Decorations&Hazards_255
+  - first:
+      213: -8692303900137660729
+    second: Mossy - Decorations&Hazards_256
+  - first:
+      213: 8600714530059055385
+    second: Mossy - Decorations&Hazards_257
+  - first:
+      213: -7172388404531865754
+    second: Mossy - Decorations&Hazards_258
+  - first:
+      213: 8566228477720241791
+    second: Mossy - Decorations&Hazards_259
+  - first:
+      213: -5257838149730021945
+    second: Mossy - Decorations&Hazards_260
+  - first:
+      213: 2829741053201053765
+    second: Mossy - Decorations&Hazards_261
+  - first:
+      213: 3035877266561711100
+    second: Mossy - Decorations&Hazards_262
+  - first:
+      213: -8197754486805345971
+    second: Mossy - Decorations&Hazards_263
+  - first:
+      213: 1783204495594947070
+    second: Mossy - Decorations&Hazards_264
+  - first:
+      213: 6033745017490988615
+    second: Mossy - Decorations&Hazards_265
+  - first:
+      213: -4600114613018790265
+    second: Mossy - Decorations&Hazards_266
+  - first:
+      213: 9125921418426914338
+    second: Mossy - Decorations&Hazards_267
+  - first:
+      213: -7827026498182532729
+    second: Mossy - Decorations&Hazards_268
+  - first:
+      213: -1958267807853095736
+    second: Mossy - Decorations&Hazards_269
+  - first:
+      213: -3247053538704799034
+    second: Mossy - Decorations&Hazards_270
+  - first:
+      213: 7683610410009797147
+    second: Mossy - Decorations&Hazards_271
+  - first:
+      213: -9128021012662216280
+    second: Mossy - Decorations&Hazards_272
+  - first:
+      213: 3349255771983356439
+    second: Mossy - Decorations&Hazards_273
+  - first:
+      213: 6024864656925847825
+    second: Mossy - Decorations&Hazards_274
+  - first:
+      213: -3967966003103575287
+    second: Mossy - Decorations&Hazards_275
+  - first:
+      213: -8496012141929723052
+    second: Mossy - Decorations&Hazards_276
+  - first:
+      213: -1751085786901158397
+    second: Mossy - Decorations&Hazards_277
+  - first:
+      213: -6581007402107813775
+    second: Mossy - Decorations&Hazards_278
+  - first:
+      213: 2368468874457383840
+    second: Mossy - Decorations&Hazards_279
+  - first:
+      213: -571922339474275270
+    second: Mossy - Decorations&Hazards_280
+  - first:
+      213: -9013241607773493352
+    second: Mossy - Decorations&Hazards_281
+  - first:
+      213: -4621730994386181092
+    second: Mossy - Decorations&Hazards_282
+  - first:
+      213: 5789457876785982045
+    second: Mossy - Decorations&Hazards_283
+  - first:
+      213: -7713849817347817080
+    second: Mossy - Decorations&Hazards_284
+  - first:
+      213: -7755152583559928724
+    second: Mossy - Decorations&Hazards_285
+  - first:
+      213: 571326575181237462
+    second: Mossy - Decorations&Hazards_286
+  - first:
+      213: 2368429557494837498
+    second: Mossy - Decorations&Hazards_287
+  - first:
+      213: -436498970392858860
+    second: Mossy - Decorations&Hazards_288
+  - first:
+      213: -2848730027815181650
+    second: Mossy - Decorations&Hazards_289
+  - first:
+      213: 9053173494482597388
+    second: Mossy - Decorations&Hazards_290
+  - first:
+      213: 7345819859870391312
+    second: Mossy - Decorations&Hazards_291
+  - first:
+      213: -5972638702802068203
+    second: Mossy - Decorations&Hazards_292
+  - first:
+      213: 8708511788804485250
+    second: Mossy - Decorations&Hazards_293
+  - first:
+      213: 2200464895938139277
+    second: Mossy - Decorations&Hazards_294
+  - first:
+      213: -5528828376359782142
+    second: Mossy - Decorations&Hazards_295
+  - first:
+      213: -3832184857388750929
+    second: Mossy - Decorations&Hazards_296
+  - first:
+      213: 249230750620097330
+    second: Mossy - Decorations&Hazards_297
+  - first:
+      213: 6394206193211841488
+    second: Mossy - Decorations&Hazards_298
+  - first:
+      213: -2556629333457514475
+    second: Mossy - Decorations&Hazards_299
+  - first:
+      213: 579224013231872713
+    second: Mossy - Decorations&Hazards_300
+  - first:
+      213: -2484001317972778528
+    second: Mossy - Decorations&Hazards_301
+  - first:
+      213: 5553043313761973007
+    second: Mossy - Decorations&Hazards_302
+  - first:
+      213: -1477143953969908423
+    second: Mossy - Decorations&Hazards_303
+  - first:
+      213: 7011258740110295213
+    second: Mossy - Decorations&Hazards_304
+  - first:
+      213: 5043861788462384280
+    second: Mossy - Decorations&Hazards_305
+  - first:
+      213: -3085486243265697077
+    second: Mossy - Decorations&Hazards_306
+  - first:
+      213: 7104904527870216920
+    second: Mossy - Decorations&Hazards_307
+  - first:
+      213: -1455930815829156023
+    second: Mossy - Decorations&Hazards_308
+  - first:
+      213: 6638790174004778662
+    second: Mossy - Decorations&Hazards_309
+  - first:
+      213: 7494327194527034106
+    second: Mossy - Decorations&Hazards_310
+  - first:
+      213: 888314237154964971
+    second: Mossy - Decorations&Hazards_311
+  - first:
+      213: 3272315044998219553
+    second: Mossy - Decorations&Hazards_312
+  - first:
+      213: 4614662879486128703
+    second: Mossy - Decorations&Hazards_313
+  - first:
+      213: 2444135889448522733
+    second: Mossy - Decorations&Hazards_314
+  - first:
+      213: -7831899071629894396
+    second: Mossy - Decorations&Hazards_315
+  - first:
+      213: 8227073230321338663
+    second: Mossy - Decorations&Hazards_316
+  - first:
+      213: 1479664417232561619
+    second: Mossy - Decorations&Hazards_317
+  - first:
+      213: 9013515706434136140
+    second: Mossy - Decorations&Hazards_318
+  - first:
+      213: 6351084272841244967
+    second: Mossy - Decorations&Hazards_319
+  - first:
+      213: -7922478169745330341
+    second: Mossy - Decorations&Hazards_320
+  - first:
+      213: -4938911484257664167
+    second: Mossy - Decorations&Hazards_321
+  - first:
+      213: 6535905010106834060
+    second: Mossy - Decorations&Hazards_322
+  - first:
+      213: 27938369882038217
+    second: Mossy - Decorations&Hazards_323
+  - first:
+      213: 50422315941877810
+    second: Mossy - Decorations&Hazards_324
+  - first:
+      213: 6406095720981686290
+    second: Mossy - Decorations&Hazards_325
+  - first:
+      213: -1350290231283382634
+    second: Mossy - Decorations&Hazards_326
+  - first:
+      213: 3504258100634513318
+    second: Mossy - Decorations&Hazards_327
+  - first:
+      213: 5504885153606541936
+    second: Mossy - Decorations&Hazards_328
+  - first:
+      213: -68552936958718401
+    second: Mossy - Decorations&Hazards_329
+  - first:
+      213: 4572467446976409169
+    second: Mossy - Decorations&Hazards_330
+  - first:
+      213: 3920397929717368875
+    second: Mossy - Decorations&Hazards_331
+  - first:
+      213: 5976733717680212393
+    second: Mossy - Decorations&Hazards_332
+  - first:
+      213: -100004841913499630
+    second: Mossy - Decorations&Hazards_333
+  - first:
+      213: 278563342758560848
+    second: Mossy - Decorations&Hazards_334
+  - first:
+      213: -5555055288602065817
+    second: Mossy - Decorations&Hazards_335
+  - first:
+      213: 4385242618850670241
+    second: Mossy - Decorations&Hazards_336
+  - first:
+      213: -8441734600179430856
+    second: Mossy - Decorations&Hazards_337
+  - first:
+      213: 6537143914521042303
+    second: Mossy - Decorations&Hazards_338
+  - first:
+      213: 8779200964769436435
+    second: Mossy - Decorations&Hazards_339
+  - first:
+      213: 4568734825459415604
+    second: Mossy - Decorations&Hazards_340
+  - first:
+      213: -8237991182821958737
+    second: Mossy - Decorations&Hazards_341
+  - first:
+      213: -6401311043051478462
+    second: Mossy - Decorations&Hazards_342
+  - first:
+      213: -6566680234686372962
+    second: Mossy - Decorations&Hazards_343
+  - first:
+      213: 4639354874466814822
+    second: Mossy - Decorations&Hazards_344
+  - first:
+      213: 2468612990888817644
+    second: Mossy - Decorations&Hazards_345
+  - first:
+      213: 1972127436612567599
+    second: Mossy - Decorations&Hazards_346
+  - first:
+      213: 970704556956372634
+    second: Mossy - Decorations&Hazards_347
+  - first:
+      213: 808997004137571016
+    second: Mossy - Decorations&Hazards_348
+  - first:
+      213: -4794739669885096954
+    second: Mossy - Decorations&Hazards_349
+  - first:
+      213: -7632560503576531448
+    second: Mossy - Decorations&Hazards_350
+  - first:
+      213: -5819825416159451085
+    second: Mossy - Decorations&Hazards_351
+  - first:
+      213: -3915762924427335497
+    second: Mossy - Decorations&Hazards_352
+  - first:
+      213: -3149181112787782406
+    second: Mossy - Decorations&Hazards_353
+  - first:
+      213: 2162788947661914268
+    second: Mossy - Decorations&Hazards_354
+  - first:
+      213: 2395547465517197850
+    second: Mossy - Decorations&Hazards_355
+  - first:
+      213: 8515538541222249361
+    second: Mossy - Decorations&Hazards_356
+  - first:
+      213: 2479829798690667456
+    second: Mossy - Decorations&Hazards_357
+  - first:
+      213: -605316481747329631
+    second: Mossy - Decorations&Hazards_358
+  - first:
+      213: -7719377930801218060
+    second: Mossy - Decorations&Hazards_359
+  - first:
+      213: -4516949938979246919
+    second: Mossy - Decorations&Hazards_360
+  - first:
+      213: 8349674794434799665
+    second: Mossy - Decorations&Hazards_361
+  - first:
+      213: -5351615045737370517
+    second: Mossy - Decorations&Hazards_362
+  - first:
+      213: -1208306800156275516
+    second: Mossy - Decorations&Hazards_363
+  - first:
+      213: -3154745022294133090
+    second: Mossy - Decorations&Hazards_364
+  - first:
+      213: -4398924814040594205
+    second: Mossy - Decorations&Hazards_365
+  - first:
+      213: -8512939426037495904
+    second: Mossy - Decorations&Hazards_366
+  - first:
+      213: -3114921917718149810
+    second: Mossy - Decorations&Hazards_367
+  - first:
+      213: -5734697283663202090
+    second: Mossy - Decorations&Hazards_368
+  - first:
+      213: -9193199549805609088
+    second: Mossy - Decorations&Hazards_369
+  - first:
+      213: -8422613802160380923
+    second: Mossy - Decorations&Hazards_370
+  - first:
+      213: 1008568410296649628
+    second: Mossy - Decorations&Hazards_371
+  - first:
+      213: -102578622143061278
+    second: Mossy - Decorations&Hazards_372
+  - first:
+      213: -8808351414379813211
+    second: Mossy - Decorations&Hazards_373
+  - first:
+      213: -3225965808322926542
+    second: Mossy - Decorations&Hazards_374
+  - first:
+      213: -7331174166515847309
+    second: Mossy - Decorations&Hazards_375
+  - first:
+      213: -5649776946035892889
+    second: Mossy - Decorations&Hazards_376
+  - first:
+      213: -7505566558320368424
+    second: Mossy - Decorations&Hazards_377
+  - first:
+      213: -7894023199328174916
+    second: Mossy - Decorations&Hazards_378
+  - first:
+      213: 9146260698260662748
+    second: Mossy - Decorations&Hazards_379
+  - first:
+      213: 2431907234016401747
+    second: Mossy - Decorations&Hazards_380
+  - first:
+      213: -3365333182894736405
+    second: Mossy - Decorations&Hazards_381
+  - first:
+      213: 1712083360368201933
+    second: Mossy - Decorations&Hazards_382
+  - first:
+      213: 7056914130220428754
+    second: Mossy - Decorations&Hazards_383
+  - first:
+      213: 4010063839635243943
+    second: Mossy - Decorations&Hazards_384
+  - first:
+      213: 7499541741214095878
+    second: Mossy - Decorations&Hazards_385
+  - first:
+      213: -8840463530042760585
+    second: Mossy - Decorations&Hazards_386
+  - first:
+      213: 6634496023895638247
+    second: Mossy - Decorations&Hazards_387
+  - first:
+      213: -7647318568284042454
+    second: Mossy - Decorations&Hazards_388
+  - first:
+      213: -6942507866591559253
+    second: Mossy - Decorations&Hazards_389
+  - first:
+      213: 6714305457971825566
+    second: Mossy - Decorations&Hazards_390
+  - first:
+      213: 5226208923836149578
+    second: Mossy - Decorations&Hazards_391
+  - first:
+      213: 4757191406924704329
+    second: Mossy - Decorations&Hazards_392
+  - first:
+      213: -8777730515930413926
+    second: Mossy - Decorations&Hazards_393
+  - first:
+      213: -5075604389686255646
+    second: Mossy - Decorations&Hazards_394
+  - first:
+      213: -2768501419730139403
+    second: Mossy - Decorations&Hazards_395
+  - first:
+      213: -6477463636497599318
+    second: Mossy - Decorations&Hazards_396
+  - first:
+      213: -3863391832661400594
+    second: Mossy - Decorations&Hazards_397
+  - first:
+      213: 3681184688050499666
+    second: Mossy - Decorations&Hazards_398
+  - first:
+      213: -8874274155108346946
+    second: Mossy - Decorations&Hazards_399
+  - first:
+      213: 2209264467132683545
+    second: Mossy - Decorations&Hazards_400
+  - first:
+      213: 1341702140872753165
+    second: Mossy - Decorations&Hazards_401
+  - first:
+      213: 2556060652808740281
+    second: Mossy - Decorations&Hazards_402
+  - first:
+      213: -7051612002009501305
+    second: Mossy - Decorations&Hazards_403
+  - first:
+      213: -1566665170359567041
+    second: Mossy - Decorations&Hazards_404
+  - first:
+      213: 4616628822633539032
+    second: Mossy - Decorations&Hazards_405
+  - first:
+      213: -8949448107864071625
+    second: Mossy - Decorations&Hazards_406
+  - first:
+      213: -3837629043095232428
+    second: Mossy - Decorations&Hazards_407
+  - first:
+      213: 3368004236208540718
+    second: Mossy - Decorations&Hazards_408
+  - first:
+      213: 6792644143399237622
+    second: Mossy - Decorations&Hazards_409
+  - first:
+      213: 986034307050190524
+    second: Mossy - Decorations&Hazards_410
+  - first:
+      213: 3623630394208073730
+    second: Mossy - Decorations&Hazards_411
+  - first:
+      213: 1662639312428399059
+    second: Mossy - Decorations&Hazards_412
+  - first:
+      213: 8043250001635803206
+    second: Mossy - Decorations&Hazards_413
+  - first:
+      213: -463807827362340058
+    second: Mossy - Decorations&Hazards_414
+  - first:
+      213: 4578637550782805337
+    second: Mossy - Decorations&Hazards_415
+  - first:
+      213: -5446762888400954607
+    second: Mossy - Decorations&Hazards_416
+  - first:
+      213: -7161505477180645456
+    second: Mossy - Decorations&Hazards_417
+  - first:
+      213: -1161555714603272003
+    second: Mossy - Decorations&Hazards_418
+  - first:
+      213: -5655417381705597521
+    second: Mossy - Decorations&Hazards_419
+  - first:
+      213: 154000565204055079
+    second: Mossy - Decorations&Hazards_420
+  - first:
+      213: -644482306165966619
+    second: Mossy - Decorations&Hazards_421
+  - first:
+      213: -511684833961986864
+    second: Mossy - Decorations&Hazards_422
+  - first:
+      213: 4014400217279092092
+    second: Mossy - Decorations&Hazards_423
+  - first:
+      213: -1888770104351537007
+    second: Mossy - Decorations&Hazards_424
+  - first:
+      213: 3276194365629462369
+    second: Mossy - Decorations&Hazards_425
+  - first:
+      213: -6860065820129921922
+    second: Mossy - Decorations&Hazards_426
+  - first:
+      213: -8574542437776170375
+    second: Mossy - Decorations&Hazards_427
+  - first:
+      213: -4378742168354218262
+    second: Mossy - Decorations&Hazards_428
+  - first:
+      213: 9177771241421703230
+    second: Mossy - Decorations&Hazards_429
+  - first:
+      213: -1983438793931557690
+    second: Mossy - Decorations&Hazards_430
+  - first:
+      213: -6232686246139665788
+    second: Mossy - Decorations&Hazards_431
+  - first:
+      213: -7260153400889123279
+    second: Mossy - Decorations&Hazards_432
+  - first:
+      213: 4834187538342728502
+    second: Mossy - Decorations&Hazards_433
+  - first:
+      213: -8909531096570056822
+    second: Mossy - Decorations&Hazards_434
+  - first:
+      213: -1498969736043845220
+    second: Mossy - Decorations&Hazards_435
+  - first:
+      213: 5025251179727481756
+    second: Mossy - Decorations&Hazards_436
+  - first:
+      213: -3045472384891620907
+    second: Mossy - Decorations&Hazards_437
+  - first:
+      213: -1846352041695304011
+    second: Mossy - Decorations&Hazards_438
+  - first:
+      213: -8782868580196224559
+    second: Mossy - Decorations&Hazards_439
+  - first:
+      213: -5399095829024329570
+    second: Mossy - Decorations&Hazards_440
+  - first:
+      213: 6797250309426316314
+    second: Mossy - Decorations&Hazards_441
+  - first:
+      213: 4544003728101767793
+    second: Mossy - Decorations&Hazards_442
+  - first:
+      213: -7390429020563288850
+    second: Mossy - Decorations&Hazards_443
+  - first:
+      213: 4962795582034393158
+    second: Mossy - Decorations&Hazards_444
+  - first:
+      213: 1290548931915471690
+    second: Mossy - Decorations&Hazards_445
+  - first:
+      213: 7437879844250357067
+    second: Mossy - Decorations&Hazards_446
+  - first:
+      213: -5079713482250572877
+    second: Mossy - Decorations&Hazards_447
+  - first:
+      213: 2770111037218592263
+    second: Mossy - Decorations&Hazards_448
+  - first:
+      213: 8273373755919957927
+    second: Mossy - Decorations&Hazards_449
+  - first:
+      213: -4594409125235204337
+    second: Mossy - Decorations&Hazards_450
+  - first:
+      213: -2550859682065601635
+    second: Mossy - Decorations&Hazards_451
+  - first:
+      213: -6839498024970815494
+    second: Mossy - Decorations&Hazards_452
+  - first:
+      213: -1883365435349785108
+    second: Mossy - Decorations&Hazards_453
+  - first:
+      213: -247810592527259118
+    second: Mossy - Decorations&Hazards_454
+  - first:
+      213: 4211840772467948797
+    second: Mossy - Decorations&Hazards_455
+  - first:
+      213: -2730618240778860009
+    second: Mossy - Decorations&Hazards_456
+  - first:
+      213: -2808280429475569841
+    second: Mossy - Decorations&Hazards_457
+  - first:
+      213: -246503550973379974
+    second: Mossy - Decorations&Hazards_458
+  - first:
+      213: 7150203527406296001
+    second: Mossy - Decorations&Hazards_459
+  - first:
+      213: -5833248958302257182
+    second: Mossy - Decorations&Hazards_460
+  - first:
+      213: 3066052282162864639
+    second: Mossy - Decorations&Hazards_461
+  - first:
+      213: -7344556502899780647
+    second: Mossy - Decorations&Hazards_462
+  - first:
+      213: 3299818708586121502
+    second: Mossy - Decorations&Hazards_463
+  - first:
+      213: 932032779409093710
+    second: Mossy - Decorations&Hazards_464
+  - first:
+      213: 7499378869868189286
+    second: Mossy - Decorations&Hazards_465
+  - first:
+      213: 156551056660283360
+    second: Mossy - Decorations&Hazards_466
+  - first:
+      213: 6267757024087054951
+    second: Mossy - Decorations&Hazards_467
+  - first:
+      213: -1962066512196154460
+    second: Mossy - Decorations&Hazards_468
+  - first:
+      213: 5096253306623617454
+    second: Mossy - Decorations&Hazards_469
+  - first:
+      213: -961547548553891105
+    second: Mossy - Decorations&Hazards_470
+  - first:
+      213: 2475844373788273268
+    second: Mossy - Decorations&Hazards_471
+  - first:
+      213: 8198577909978722871
+    second: Mossy - Decorations&Hazards_472
+  - first:
+      213: -896862267686540412
+    second: Mossy - Decorations&Hazards_473
+  - first:
+      213: 8302215921414426171
+    second: Mossy - Decorations&Hazards_474
+  - first:
+      213: -9501556284341710
+    second: Mossy - Decorations&Hazards_475
+  - first:
+      213: 7384432612995468600
+    second: Mossy - Decorations&Hazards_476
+  - first:
+      213: 4697520382301219586
+    second: Mossy - Decorations&Hazards_477
+  - first:
+      213: -8365906860531099673
+    second: Mossy - Decorations&Hazards_478
+  - first:
+      213: 3913659569649843332
+    second: Mossy - Decorations&Hazards_479
+  - first:
+      213: -8619623956264268812
+    second: Mossy - Decorations&Hazards_480
+  - first:
+      213: 6523474284577299612
+    second: Mossy - Decorations&Hazards_481
+  - first:
+      213: 2594382194549023750
+    second: Mossy - Decorations&Hazards_482
+  - first:
+      213: 1201622767032017794
+    second: Mossy - Decorations&Hazards_483
+  - first:
+      213: 3182603552994354910
+    second: Mossy - Decorations&Hazards_484
+  - first:
+      213: 7024408487252003284
+    second: Mossy - Decorations&Hazards_485
+  - first:
+      213: -7804084923751341062
+    second: Mossy - Decorations&Hazards_486
+  - first:
+      213: 9063608965143530471
+    second: Mossy - Decorations&Hazards_487
+  - first:
+      213: 41854118863785662
+    second: Mossy - Decorations&Hazards_488
+  - first:
+      213: -6321377859445135314
+    second: Mossy - Decorations&Hazards_489
+  - first:
+      213: 1915648921496972432
+    second: Mossy - Decorations&Hazards_490
+  - first:
+      213: -5574114123950188816
+    second: Mossy - Decorations&Hazards_491
+  - first:
+      213: 4479873415636225306
+    second: Mossy - Decorations&Hazards_492
+  - first:
+      213: 4126437340970625918
+    second: Mossy - Decorations&Hazards_493
+  - first:
+      213: -543101983143544472
+    second: Mossy - Decorations&Hazards_494
+  - first:
+      213: 5254475837253105753
+    second: Mossy - Decorations&Hazards_495
+  - first:
+      213: -8404296389992691757
+    second: Mossy - Decorations&Hazards_496
+  - first:
+      213: -8510672657785767109
+    second: Mossy - Decorations&Hazards_497
+  - first:
+      213: -7146061058496857841
+    second: Mossy - Decorations&Hazards_498
+  - first:
+      213: -4967416013804432210
+    second: Mossy - Decorations&Hazards_499
+  - first:
+      213: -1641035570708673719
+    second: Mossy - Decorations&Hazards_500
+  - first:
+      213: -312602754950774835
+    second: Mossy - Decorations&Hazards_501
+  - first:
+      213: -1904621194710013187
+    second: Mossy - Decorations&Hazards_502
+  - first:
+      213: -3357221273069918826
+    second: Mossy - Decorations&Hazards_503
+  - first:
+      213: -5055106417617240200
+    second: Mossy - Decorations&Hazards_504
+  - first:
+      213: -9043613097568783710
+    second: Mossy - Decorations&Hazards_505
+  - first:
+      213: -3607021339851479124
+    second: Mossy - Decorations&Hazards_506
+  - first:
+      213: -7494156329247984492
+    second: Mossy - Decorations&Hazards_507
+  - first:
+      213: 2517541731992974707
+    second: Mossy - Decorations&Hazards_508
+  - first:
+      213: 2291920184080155291
+    second: Mossy - Decorations&Hazards_509
+  - first:
+      213: 266380523767491708
+    second: Mossy - Decorations&Hazards_510
+  - first:
+      213: -5048491603918304076
+    second: Mossy - Decorations&Hazards_511
+  - first:
+      213: 1144464308111239657
+    second: Mossy - Decorations&Hazards_512
+  - first:
+      213: -8516733519616158121
+    second: Mossy - Decorations&Hazards_513
+  - first:
+      213: 9025062296648946223
+    second: Mossy - Decorations&Hazards_514
+  - first:
+      213: 5250406590213555480
+    second: Mossy - Decorations&Hazards_515
+  - first:
+      213: -830861692453545498
+    second: Mossy - Decorations&Hazards_516
+  - first:
+      213: 6839797211188341265
+    second: Mossy - Decorations&Hazards_517
+  - first:
+      213: -4182456750853251552
+    second: Mossy - Decorations&Hazards_518
+  - first:
+      213: 2866642577355735560
+    second: Mossy - Decorations&Hazards_519
+  - first:
+      213: 6982809892162899155
+    second: Mossy - Decorations&Hazards_520
+  - first:
+      213: -3519143694976751742
+    second: Mossy - Decorations&Hazards_521
+  - first:
+      213: -6553964026922622251
+    second: Mossy - Decorations&Hazards_522
+  - first:
+      213: -7051006958271301637
+    second: Mossy - Decorations&Hazards_523
+  - first:
+      213: 1365748915273938987
+    second: Mossy - Decorations&Hazards_524
+  - first:
+      213: -7282530177695925192
+    second: Mossy - Decorations&Hazards_525
+  - first:
+      213: -1054448892781027739
+    second: Mossy - Decorations&Hazards_526
+  - first:
+      213: -4749797174253791997
+    second: Mossy - Decorations&Hazards_527
+  - first:
+      213: -4894738299941824117
+    second: Mossy - Decorations&Hazards_528
+  - first:
+      213: -6590694811272981054
+    second: Mossy - Decorations&Hazards_529
+  - first:
+      213: 1849434915672266908
+    second: Mossy - Decorations&Hazards_530
+  - first:
+      213: 7546112290454909443
+    second: Mossy - Decorations&Hazards_531
+  - first:
+      213: -244495707268123509
+    second: Mossy - Decorations&Hazards_532
+  - first:
+      213: -1684324575392755611
+    second: Mossy - Decorations&Hazards_533
+  - first:
+      213: 3509410277956138697
+    second: Mossy - Decorations&Hazards_534
+  - first:
+      213: 6934008118780407287
+    second: Mossy - Decorations&Hazards_535
+  - first:
+      213: 4195248882035899190
+    second: Mossy - Decorations&Hazards_536
+  - first:
+      213: -6642014176287165952
+    second: Mossy - Decorations&Hazards_537
+  - first:
+      213: 8500433749852380738
+    second: Mossy - Decorations&Hazards_538
+  - first:
+      213: -6376487252915174371
+    second: Mossy - Decorations&Hazards_539
+  - first:
+      213: -4794131826822884528
+    second: Mossy - Decorations&Hazards_540
+  - first:
+      213: -823691332115923448
+    second: Mossy - Decorations&Hazards_541
+  - first:
+      213: 1021857888214399886
+    second: Mossy - Decorations&Hazards_542
+  - first:
+      213: -8929462882870919278
+    second: Mossy - Decorations&Hazards_543
+  - first:
+      213: 3569889497199373870
+    second: Mossy - Decorations&Hazards_544
+  - first:
+      213: 6471666712176741720
+    second: Mossy - Decorations&Hazards_545
+  - first:
+      213: -7341261318937470593
+    second: Mossy - Decorations&Hazards_546
+  - first:
+      213: 8412954978048507316
+    second: Mossy - Decorations&Hazards_547
+  - first:
+      213: 3504265972252846483
+    second: Mossy - Decorations&Hazards_548
+  - first:
+      213: 3998440405154366911
+    second: Mossy - Decorations&Hazards_549
+  - first:
+      213: 1381327368846922226
+    second: Mossy - Decorations&Hazards_550
+  - first:
+      213: 5796686388595166273
+    second: Mossy - Decorations&Hazards_551
+  - first:
+      213: 4856976740709262355
+    second: Mossy - Decorations&Hazards_552
+  - first:
+      213: 4201783426015862537
+    second: Mossy - Decorations&Hazards_553
+  - first:
+      213: 3399592527000173162
+    second: Mossy - Decorations&Hazards_554
+  - first:
+      213: 102564072462170678
+    second: Mossy - Decorations&Hazards_555
+  - first:
+      213: -1266630729926920748
+    second: Mossy - Decorations&Hazards_556
+  - first:
+      213: -4725316020242871133
+    second: Mossy - Decorations&Hazards_557
+  - first:
+      213: -1818698179730289428
+    second: Mossy - Decorations&Hazards_558
+  - first:
+      213: 5746232303129511059
+    second: Mossy - Decorations&Hazards_559
+  - first:
+      213: 135519461837793458
+    second: Mossy - Decorations&Hazards_560
+  - first:
+      213: 2443718921795625774
+    second: Mossy - Decorations&Hazards_561
+  - first:
+      213: 6703303387913893296
+    second: Mossy - Decorations&Hazards_562
+  - first:
+      213: -5809468167116453239
+    second: Mossy - Decorations&Hazards_563
+  - first:
+      213: 4478577767094060023
+    second: Mossy - Decorations&Hazards_564
+  - first:
+      213: -1183060254915464338
+    second: Mossy - Decorations&Hazards_565
+  - first:
+      213: 1164214478102236207
+    second: Mossy - Decorations&Hazards_566
+  - first:
+      213: -5744581884305201367
+    second: Mossy - Decorations&Hazards_567
+  - first:
+      213: -2292232773228858879
+    second: Mossy - Decorations&Hazards_568
+  - first:
+      213: -6282011243205818193
+    second: Mossy - Decorations&Hazards_569
+  - first:
+      213: -3078725154736352610
+    second: Mossy - Decorations&Hazards_570
+  - first:
+      213: -8381112373489683327
+    second: Mossy - Decorations&Hazards_571
+  - first:
+      213: 2598890617125662604
+    second: Mossy - Decorations&Hazards_572
+  - first:
+      213: -6293823504665378247
+    second: Mossy - Decorations&Hazards_573
+  - first:
+      213: -5284571256880705193
+    second: Mossy - Decorations&Hazards_574
+  - first:
+      213: 1905006433441490593
+    second: Mossy - Decorations&Hazards_575
+  - first:
+      213: 1850174533375297536
+    second: Mossy - Decorations&Hazards_576
+  - first:
+      213: -4804822247096908235
+    second: Mossy - Decorations&Hazards_577
+  - first:
+      213: 5138308397729596046
+    second: Mossy - Decorations&Hazards_578
+  - first:
+      213: -9176131988662207338
+    second: Mossy - Decorations&Hazards_579
+  - first:
+      213: -8924009504462052989
+    second: Mossy - Decorations&Hazards_580
+  - first:
+      213: 2616169857436950358
+    second: Mossy - Decorations&Hazards_581
+  - first:
+      213: -3669639341814652236
+    second: Mossy - Decorations&Hazards_582
+  - first:
+      213: -883679178269229782
+    second: Mossy - Decorations&Hazards_583
+  - first:
+      213: 6290940860355608187
+    second: Mossy - Decorations&Hazards_584
+  - first:
+      213: -5410716579819007208
+    second: Mossy - Decorations&Hazards_585
+  - first:
+      213: -4301940077734136723
+    second: Mossy - Decorations&Hazards_586
+  - first:
+      213: -6443482206718817858
+    second: Mossy - Decorations&Hazards_587
+  - first:
+      213: 3265386680812779659
+    second: Mossy - Decorations&Hazards_588
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_0
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 3196
+        width: 1284
+        height: 710
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b93266057e582460800000000000000
+      internalID: 7217122259572505013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_1
+      rect:
+        serializedVersion: 2
+        x: 1594
+        y: 3182
+        width: 1160
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0ff560fae60c8460800000000000000
+      internalID: 7245173506657615631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_2
+      rect:
+        serializedVersion: 2
+        x: 2892
+        y: 3172
+        width: 1054
+        height: 916
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 422f1e5988287a410800000000000000
+      internalID: 1488301725011014180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_3
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 2508
+        width: 1474
+        height: 626
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 307d9ec28ccf30940800000000000000
+      internalID: 5261326726376052483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_4
+      rect:
+        serializedVersion: 2
+        x: 2066
+        y: 2316
+        width: 1226
+        height: 808
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd709f39d0bfbbcb0800000000000000
+      internalID: -4847004538198489123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_5
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 1610
+        width: 920
+        height: 852
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c8dfc352b44f9850800000000000000
+      internalID: 6385898329335650500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_6
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1780
+        width: 458
+        height: 424
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32a2afe6a000b4720800000000000000
+      internalID: 2831356835544050211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_7
+      rect:
+        serializedVersion: 2
+        x: 2342
+        y: 1800
+        width: 612
+        height: 404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 751cb9b9a0c0d5190800000000000000
+      internalID: -7972202525676027561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_8
+      rect:
+        serializedVersion: 2
+        x: 3164
+        y: 1840
+        width: 742
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25a697dca75f493f0800000000000000
+      internalID: -894820518157784494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_9
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1198
+        width: 290
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a925d6f0247add00800000000000000
+      internalID: 998237952344926632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_10
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 1092
+        width: 276
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbace3120b00e7530800000000000000
+      internalID: 3854519087547730619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_11
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 1106
+        width: 152
+        height: 362
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4c16efb75b4bf5c0800000000000000
+      internalID: -4180664988829606838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_12
+      rect:
+        serializedVersion: 2
+        x: 1578
+        y: 1192
+        width: 68
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b12d93221c6faf0800000000000000
+      internalID: -362890367213626599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_13
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 1192
+        width: 70
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe8d6a39075839f0800000000000000
+      internalID: -488544862423118083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_14
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 1180
+        width: 76
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49ac0d19b32ba11a0800000000000000
+      internalID: -6837957115289482604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_15
+      rect:
+        serializedVersion: 2
+        x: 1798
+        y: 1190
+        width: 66
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd0ec3629f5d7cab0800000000000000
+      internalID: -4987782796224438051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_16
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 1190
+        width: 66
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61c91d1a92513cce0800000000000000
+      internalID: -1386240991747269610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_17
+      rect:
+        serializedVersion: 2
+        x: 1946
+        y: 1188
+        width: 74
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 447ebd5ec0f587780800000000000000
+      internalID: -8685087372383361212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_18
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 64
+        width: 414
+        height: 1466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77ebba5620f804c00800000000000000
+      internalID: 882862767423078007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_19
+      rect:
+        serializedVersion: 2
+        x: 2606
+        y: 58
+        width: 430
+        height: 1474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2cf274b797f12700800000000000000
+      internalID: 513964063436504107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_20
+      rect:
+        serializedVersion: 2
+        x: 3108
+        y: 54
+        width: 422
+        height: 1482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a0fe4b20474a9eb0800000000000000
+      internalID: -4712375719159730009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_21
+      rect:
+        serializedVersion: 2
+        x: 3720
+        y: 46
+        width: 248
+        height: 1504
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 280152422c52bbed0800000000000000
+      internalID: -2397280860884365182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_22
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 578
+        width: 356
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bb444a070771f4c0800000000000000
+      internalID: -4255489300767683658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_23
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 584
+        width: 174
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8fde059a758ef490800000000000000
+      internalID: -7710578750478426230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_24
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 986
+        width: 138
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91e80796b5cffd4e0800000000000000
+      internalID: -1954566243714298343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_25
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 574
+        width: 404
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad4c79be2e12a9370800000000000000
+      internalID: 8330007719274071258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_26
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 688
+        width: 300
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eed461465fc891bf0800000000000000
+      internalID: -353096110197813778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_27
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 60
+        width: 100
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86e327d5593b50920800000000000000
+      internalID: 2955966184537865832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_28
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 48
+        width: 256
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56e70731eb20309c0800000000000000
+      internalID: -3962320231762723227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_29
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 54
+        width: 64
+        height: 398
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e66a9f135a012bf50800000000000000
+      internalID: 6895592281151743598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_30
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 68
+        width: 86
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ee2e03da567471e0800000000000000
+      internalID: -2201004185417273631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_31
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 78
+        width: 142
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d3d4d6c009844460800000000000000
+      internalID: 7225050338637960144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_32
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 78
+        width: 226
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4beae637c0e2ae4d0800000000000000
+      internalID: -3104618362107416908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_33
+      rect:
+        serializedVersion: 2
+        x: 1812
+        y: 78
+        width: 132
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78326c6766b31bea0800000000000000
+      internalID: -5858836328966904953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_34
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 80
+        width: 88
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4022689c33c51ddf0800000000000000
+      internalID: -157243134487158268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
